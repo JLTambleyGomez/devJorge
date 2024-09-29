@@ -5,5 +5,11 @@
 @tailwind utilities;
 
 body{
-    scroll-behavior: smooth;
+    background-color: #111827   ;
+}
+
+html{
+    scrollbar-color:#22C55E #111827; ; 
+    scroll-behavior:smooth;
+
 }
